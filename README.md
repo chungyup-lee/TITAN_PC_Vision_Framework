@@ -9,7 +9,7 @@
 
 
 
-# <img src="assets/titan_icon.png" width="40"> TITAN (BISON Vision Framework) 
+# <img src="assets/titan_icon.png" width="40"> TITAN (BISON PC Vision Framework) 
 
 산업용 머신비전 검사 플랫폼
 
