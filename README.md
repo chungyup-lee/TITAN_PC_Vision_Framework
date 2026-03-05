@@ -13,11 +13,14 @@
 
 산업용 머신비전 검사 플랫폼
 
-**Industrial AI Vision Platform for High-Performance Inspection Systems**
+**Industrial-grade AI vision platform for high-performance inspection systems.**
 
-TITAN Vision Platform은 산업용 검사 시스템을 위해 설계된 AI 기반 머신비전 플랫폼입니다.  
-실시간 검사 파이프라인과 고성능 AI 추론 엔진을 통해 다양한 산업 환경에서 안정적인 검사 시스템을 구축할 수 있습니다.
-
+TITAN Vision Platform은 산업 환경에 최적화된 머신비전 프레임워크로,
+실시간 검사 파이프라인과 고속 이미지 처리 엔진을 기반으로 안정적인 산업용 검사 시스템을 구축할 수 있습니다.
+---
+멀티 카메라 검사 환경을 지원하며, AI 기반 검사와 Rule 기반 비전 알고리즘을 결합하여
+다양한 산업 공정에서 높은 정확도와 유연성을 제공합니다.
+---
 ------------------------------------------------------------------------
 
 # 시스템 아키텍처
